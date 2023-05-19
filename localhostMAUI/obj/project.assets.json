@@ -24650,11 +24650,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RyC-92\\source\\repos\\localhostMAUI\\localhostMAUI\\localhostMAUI.csproj",
+      "projectUniqueName": "C:\\git-hub\\MauiLocalHostAndroid\\localhostMAUI\\localhostMAUI.csproj",
       "projectName": "localhostMAUI",
-      "projectPath": "C:\\Users\\RyC-92\\source\\repos\\localhostMAUI\\localhostMAUI\\localhostMAUI.csproj",
+      "projectPath": "C:\\git-hub\\MauiLocalHostAndroid\\localhostMAUI\\localhostMAUI.csproj",
       "packagesPath": "C:\\Users\\RyC-92\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RyC-92\\source\\repos\\localhostMAUI\\localhostMAUI\\obj\\",
+      "outputPath": "C:\\git-hub\\MauiLocalHostAndroid\\localhostMAUI\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

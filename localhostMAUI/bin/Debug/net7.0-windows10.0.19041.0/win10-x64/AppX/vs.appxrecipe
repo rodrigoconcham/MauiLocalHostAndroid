@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>79831fe1-d51b-4938-9a7c-204ab52776db</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\git-hub\MauiLocalHostAndroid\localhostMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>F6FBA69D03135461038F5D762CF55918E931E19377A29411B83E7E7C1BA30494</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>79831fe1-d51b-4938-9a7c-204ab52776db_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>79831fe1-d51b-4938-9a7c-204ab52776db_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,28 +27,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-18T21:57:52.865</Modified>
+      <Modified>2023-05-19T18:28:13.194</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-18T21:57:52.450</Modified>
+      <Modified>2023-05-19T18:28:12.859</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\localhostMAUI.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\localhostMAUI.runtimeconfig.json">
       <PackagePath>localhostMAUI.runtimeconfig.json</PackagePath>
-      <Modified>2023-05-18T18:58:50.688</Modified>
+      <Modified>2023-05-19T13:13:27.993</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\localhostMAUI.dll">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\localhostMAUI.dll">
       <PackagePath>localhostMAUI.dll</PackagePath>
-      <Modified>2023-05-18T21:57:50.456</Modified>
+      <Modified>2023-05-19T18:28:11.981</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>localhostMAUI.exe</PackagePath>
-      <Modified>2023-05-18T21:57:50.527</Modified>
+      <Modified>2023-05-19T18:28:12.029</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\RyC-92\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.5\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -922,9 +922,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\localhostMAUI.deps.json">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\localhostMAUI.deps.json">
       <PackagePath>localhostMAUI.deps.json</PackagePath>
-      <Modified>2023-05-18T21:57:52.692</Modified>
+      <Modified>2023-05-19T18:28:13.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.86\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -938,239 +938,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-04-25T20:26:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-05-18T15:58:07.865</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-05-18T15:58:22.092</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-05-18T15:58:22.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-05-18T15:58:22.128</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-05-18T15:58:22.158</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-05-18T15:58:22.274</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-05-18T15:58:07.862</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-05-18T15:58:07.863</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-05-18T15:58:22.315</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-05-18T15:58:22.552</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-05-18T15:58:22.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-05-18T15:58:22.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-05-18T15:58:22.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-05-18T15:58:22.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-05-18T15:58:22.386</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-05-18T15:58:22.389</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-05-18T15:58:22.402</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-05-18T15:58:22.393</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-05-18T15:58:22.396</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-05-18T15:58:22.367</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-05-18T15:58:22.370</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-05-18T15:58:22.383</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-05-18T15:58:22.373</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-05-18T15:58:22.376</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-05-18T15:58:22.329</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-05-18T15:58:22.332</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-05-18T15:58:22.336</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-05-18T15:58:22.340</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-05-18T15:58:22.346</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-05-18T15:58:22.349</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-05-18T15:58:22.352</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-05-18T15:58:22.364</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-05-18T15:58:22.355</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-05-18T15:58:22.358</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-05-18T15:58:22.445</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-05-18T15:58:22.450</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-05-18T15:58:22.456</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-05-18T15:58:22.463</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-05-18T15:58:22.479</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-05-18T15:58:22.424</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-05-18T15:58:22.427</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-05-18T15:58:22.430</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-05-18T15:58:22.434</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-05-18T15:58:22.441</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-05-18T15:58:22.406</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-05-18T15:58:22.409</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-05-18T15:58:22.413</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-05-18T15:58:22.416</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-05-18T15:58:22.421</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-05-18T15:58:22.484</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-05-18T15:58:22.491</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-05-18T15:58:22.499</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-05-18T15:58:22.513</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-05-18T15:58:22.544</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-05-18T15:58:22.366</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-05-18T15:58:22.376</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-05-18T15:58:22.388</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-05-18T15:58:22.406</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\git-hub\MauiLocalHostAndroid\localhostMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-05-18T15:58:22.446</Modified>
     </AppxPackagedFile>

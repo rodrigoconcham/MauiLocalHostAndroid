@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fqRf2hcc/4MeOOoNTrCiUZuG9iA2Qmm3rUKjUJwduluEFR3FMoAJ+bS/3E97sreAEbkrL/wPJMvuIo2Brj2zjA==",
+  "dgSpecHash": "zCSWyFo+YK7+/EEWq1P6vmng0Ffcv7wkqhO5F1fpfuNcSWcsUAhxkt8p8phe6/GhpHBWbnTTrgodY+uurFaRXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RyC-92\\source\\repos\\localhostMAUI\\localhostMaui.Api\\localhostMaui.Api.csproj",
+  "projectFilePath": "C:\\git-hub\\MauiLocalHostAndroid\\localhostMaui.Api\\localhostMaui.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RyC-92\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\RyC-92\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

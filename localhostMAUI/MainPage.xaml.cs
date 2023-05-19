@@ -1,4 +1,7 @@
-﻿using System.Net.Http.Json;
+﻿using System.Net.Http.Headers;
+using System.Net.Http.Json;
+using System.Text;
+using System.Text.Json;
 
 namespace localhostMAUI;
 
@@ -6,7 +9,7 @@ namespace localhostMAUI;
 
 public partial class MainPage : ContentPage
 {
-	int count = 0;
+	
 
 	public MainPage()
 	{
@@ -15,15 +18,45 @@ public partial class MainPage : ContentPage
 
 	private async void OnCallApiBtnClicked(object sender, EventArgs e)
 	{
-		var httpClient = new HttpClient();
-		var baseUrl = DeviceInfo.Platform == DevicePlatform.Android ? "http://10.0.2.2:5287" : "http://localhost:5287";
-		var response = await httpClient.GetAsync($"{baseUrl}/WeatherForecast");
+      
+       var baseUrl = DeviceInfo.Platform == DevicePlatform.Android ? "http://192.168.10.130:3000" : "http://192.168.10.130:3000";
+     
 
-		var data = await response.Content.ReadAsStringAsync();
+        HttpClient httpClient = new HttpClient();
+
+     
+        StringContent httpContent = new StringContent(@"{ ""email"": ""a@a.cl"", ""password"": ""prueba2023"" }", Encoding.UTF8, "application/json");
+        var response = await httpClient.PostAsync($"{baseUrl}/auth-server/login", httpContent);
+
+     
+        var token = await response.Content.ReadAsStringAsync();
+        var token2 = await response.Content.ReadAsStringAsync();
 
 
-			
 
-	}
+        //httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+
+
+        var response2 = await httpClient.GetAsync($"{baseUrl}/user-server");
+
+
+        token2 = await response2.Content.ReadAsStringAsync();
+
+        //httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token2);
+                
+
+        await DisplayAlert("Resultado", token2 ,"OK");
+
+
+       
+
+
+
+
+
+
+
+
+    }
 }
 

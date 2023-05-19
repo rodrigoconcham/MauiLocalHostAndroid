@@ -1,1 +1,1 @@
-C:\Users\RyC-92\source\repos\localhostMAUI\localhostMAUI\localhostMAUI.csproj;x64
+C:\git-hub\MauiLocalHostAndroid\localhostMAUI\localhostMAUI.csproj;x64

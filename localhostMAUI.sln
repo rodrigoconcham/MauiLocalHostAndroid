@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "localhostMAUI", "localhostMAUI\localhostMAUI.csproj", "{44ECCCD0-4D42-4E75-9327-ECDE5ACC62DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "localhostMaui.Api", "localhostMaui.Api\localhostMaui.Api.csproj", "{5A07D868-7428-4CF5-B06B-A7466A144354}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "localhostMaui.Api", "localhostMaui.Api\localhostMaui.Api.csproj", "{5A07D868-7428-4CF5-B06B-A7466A144354}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
